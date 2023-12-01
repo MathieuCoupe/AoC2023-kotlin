@@ -23,3 +23,11 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [kotlin]: https://kotlinlang.org
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+
+
+## Summary
+
+### Day 01
+
+Part 1: Your puzzle answer was 54601.   
+Part 1: Your puzzle answer was 54078.
