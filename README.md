@@ -24,25 +24,24 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
 
-
 ## Summary
 
-| Day | Part 1 | Part 2 |
-|-----|-------:|-------:|
-| 01  |  54601 |  54078 |
-| 02 |  2683 |  49710 |
-| 03 |   |   |
-| 04 |   |   |
-| 05 |   |   |
-| 06 |   |   |
-| 07 |   |   |
-| 08 |   |   |
-| 09 |   |   |
-| 10 |   |   |
-| 11 |   |   |
-| 12 |   |   |
-| 13 |   |   |
-| 14 |   |   |
+| Day | Part 1 |   Part 2 |
+|-----|-------:|---------:|
+| 01  |  54601 |    54078 |
+| 02  |   2683 |    49710 |
+| 03  | 532445 | 79842967 |
+| 04  |        |          |
+| 05  |        |          |
+| 06  |        |          |
+| 07  |        |          |
+| 08  |        |          |
+| 09  |        |          |
+| 10  |        |          |
+| 11  |        |          |
+| 12  |        |          |
+| 13  |        |          |
+| 14  |        |          |
 
 
 
