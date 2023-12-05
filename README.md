@@ -27,7 +27,24 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 
 ## Summary
 
-### Day 01
+| Day | Part 1 | Part 2 |
+|-----|-------:|-------:|
+| 01  |  54601 |  54078 |
+| 02 |  2683 |  49710 |
+| 03 |   |   |
+| 04 |   |   |
+| 05 |   |   |
+| 06 |   |   |
+| 07 |   |   |
+| 08 |   |   |
+| 09 |   |   |
+| 10 |   |   |
+| 11 |   |   |
+| 12 |   |   |
+| 13 |   |   |
+| 14 |   |   |
 
-Part 1: Your puzzle answer was 54601.   
-Part 1: Your puzzle answer was 54078.
+
+
+
+
