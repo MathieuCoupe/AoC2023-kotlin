@@ -32,7 +32,7 @@ fun main() {
         val cards = parse(input)
 
         // an array to hold the number of copies for each card (with an extra value at start to simplify indexing)
-        var copies: IntArray = IntArray(cards.size + 1) { i -> if (i == 0) 0 else 1}
+        val copies: IntArray = IntArray(cards.size + 1) { i -> if (i == 0) 0 else 1}
         cards.forEach {
             val copiesWon = it.winning.intersect(it.numbers).count()
             if (copiesWon > 0) {
